@@ -1,2 +1,2 @@
-https://coronarus.github.io/rsschool-cv/cv
-https://coronarus.github.io/rsschool-cv/
+[CV md](https://coronarus.github.io/rsschool-cv/cv)
+[CV html](https://coronarus.github.io/rsschool-cv/)
